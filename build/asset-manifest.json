@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.dba4f552.css",
+    "main.js": "/static/js/main.f49325bc.js",
+    "static/media/Post Malone - White Iverson.mp3": "/static/media/Post Malone - White Iverson.0c63ed238dd2ca8574e2.mp3",
+    "static/media/Sigrid - High Five.mp3": "/static/media/Sigrid - High Five.0e42a243a4923db61ce1.mp3",
+    "static/media/Rick Astley - Never Gonna Give You Up.mp3": "/static/media/Rick Astley - Never Gonna Give You Up.4e16c696958aa0b4146a.mp3",
+    "static/media/Khalid - Young Dumb Broke.mp3": "/static/media/Khalid - Young Dumb Broke.a7f6f69045371a114377.mp3",
+    "static/media/John Denver - Country Roads.mp3": "/static/media/John Denver - Country Roads.01643f6558b6d6fabdf0.mp3",
+    "static/media/Post Malone - White Iverson.png": "/static/media/Post Malone - White Iverson.8a8b4a96f6f345b41e97.png",
+    "static/media/Never Gonna Give You Up.png": "/static/media/Never Gonna Give You Up.aeb1f99459b9f38ca99b.png",
+    "static/media/Sigrid - High Five.png": "/static/media/Sigrid - High Five.19fd2e5c0656f9c96b82.png",
+    "static/media/wallpaper3.jpg": "/static/media/wallpaper3.73839d47fbfd4a4289aa.jpg",
+    "static/media/wallpaper1.jpg": "/static/media/wallpaper1.0d02cba1dc0882989077.jpg",
+    "static/media/Khalid - Young Dumb Broke.jpg": "/static/media/Khalid - Young Dumb Broke.38894801ab20be8c637c.jpg",
+    "static/media/John Denver - Country Roads.jpg": "/static/media/John Denver - Country Roads.fbd20a4186e3c1ad8d16.jpg",
+    "static/media/music.jpg": "/static/media/music.c385231b4bfe0891cc99.jpg",
+    "static/media/game.jpg": "/static/media/game.32ff27ff819ba9aac52d.jpg",
+    "static/media/settings.png": "/static/media/settings.9bc43f25a527271f7965.png",
+    "static/media/wallpaper2.jpg": "/static/media/wallpaper2.f7623c91d1eafa558274.jpg",
+    "index.html": "/index.html",
+    "main.dba4f552.css.map": "/static/css/main.dba4f552.css.map",
+    "main.f49325bc.js.map": "/static/js/main.f49325bc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dba4f552.css",
+    "static/js/main.f49325bc.js"
+  ]
+}
